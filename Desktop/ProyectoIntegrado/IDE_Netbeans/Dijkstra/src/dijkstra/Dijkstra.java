@@ -13,7 +13,7 @@ public class Dijkstra {
     /**
      * @param args the command line arguments
      */
-   
+     //
        public static void main(String... args) throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
         String entrada;

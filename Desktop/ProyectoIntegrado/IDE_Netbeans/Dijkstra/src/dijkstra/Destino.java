@@ -10,9 +10,9 @@ package dijkstra;
  * @author Diana
  */
 public class Destino {
-            int vertice;
+        int vertice;
         int peso;
-
+        
         public Destino(int vertice, int peso) {
             this.vertice = vertice;
             this.peso = peso;
